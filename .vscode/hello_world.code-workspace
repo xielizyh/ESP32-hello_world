@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"freertos.h": "c",
+			"esp_spi_flash.h": "c",
+			"main.h": "c",
+			"*.ipp": "c"
+		}
+	}
+}
